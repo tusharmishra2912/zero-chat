@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696352826712",
+    "project_id": "zero-chat24",
+    "storage_bucket": "zero-chat24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696352826712:android:b9fa77419d39da35abf12d",
+        "android_client_info": {
+          "package_name": "com.example.zerochat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvE25QQThLIIcKXmGrb0OSDxzt2PzHxtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
